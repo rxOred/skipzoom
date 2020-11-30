@@ -1,7 +1,7 @@
 requirements :
-  	chrome 86.0
-  	python3
-  	just execute exeme.ps1 :)
+chrome 86.0
+python3
+just execute exeme.ps1 :)
 
 setup:
 replace your class time with "time-here" in tt.json
