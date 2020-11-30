@@ -10,4 +10,4 @@ setup:
 	run the python file.
 	add script to windows task scheduler.
 
-@redrIOT
+~redrIOT
