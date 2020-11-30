@@ -1,6 +1,7 @@
 requirements :
 
  	chrome 86.0
+	chromedriver
  	python3
  	just execute exeme.ps1 :)
 
