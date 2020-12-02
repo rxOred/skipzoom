@@ -1,5 +1,6 @@
 requirements :
-
+	
+	selenium
  	chrome 86.0
 	chromedriver
  	python3
